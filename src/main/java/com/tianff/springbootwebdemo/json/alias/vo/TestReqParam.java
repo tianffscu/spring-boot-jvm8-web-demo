@@ -1,4 +1,4 @@
-package com.tianff.springbootwebdemo.vo;
+package com.tianff.springbootwebdemo.json.alias.vo;
 
 public class TestReqParam {
 

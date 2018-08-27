@@ -1,4 +1,4 @@
-package com.tianff.springbootwebdemo.vo;
+package com.tianff.springbootwebdemo.json.alias.vo;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
